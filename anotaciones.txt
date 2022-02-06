@@ -1,0 +1,3 @@
+pip install virtualenv: Para instalar el paquete virtualenv.
+virtualenv venv: Para hacer una carpeta donde se guarden todos los paquetes.
+.\venv\Scripts\activate.bat (Solo en consola windows): Para activar el entorno virtual.
